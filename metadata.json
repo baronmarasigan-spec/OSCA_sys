@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix:  OSCA 2.28.26",
+  "description": "A comprehensive Senior Citizen Management System designed for ease of use, facilitating registration, ID issuance, benefits, and administrative oversight.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
